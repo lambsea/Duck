@@ -1,6 +1,5 @@
 {
 "file":"game_over_sprites.png","frames": {
-	"bg":  {"x":0, "y":0, "w":375, "h":300,"offX":0,"offY":0,"sourceW": 375,"sourceH":300},
 	"replay":  {"x":352, "y":366, "w":158, "h":64,"offX":0,"offY":0,"sourceW": 158,"sourceH":64},
 	"replayPress":  {"x":376, "y":0, "w":158, "h":64,"offX":0,"offY":0,"sourceW": 158,"sourceH":64},
 
